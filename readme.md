@@ -187,5 +187,5 @@
 																																																																																																																																																																																																													默认操作是从将文件中的数据使用 INSERT 语句插入到表中，更新模式下，是生成 UPDATE语句更新表数据。
 																																																																																																																																																																																																														以下是 export 命令语法：$ sqoop export (generic-args) (export-arg)
 
-																																																																																																																																																																																																									fasdfasdfasdfaffadfasdfasdfd.从hdfs上导出到mysql中
+																																																																																																																																																																																																									fasdfasdfasdfaffadfasdfasdfadfasfasdffd.从hdfs上导出到mysql中
 																																																																																																																																																																																																															    
